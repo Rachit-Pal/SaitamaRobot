@@ -1,3 +1,5 @@
+# Credit : Madara-Uchih4
+
 import datetime
 import html
 import textwrap
