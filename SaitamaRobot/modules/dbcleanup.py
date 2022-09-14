@@ -1,3 +1,5 @@
+# Credit : Madara-Uchih4
+
 from time import sleep
 
 import SaitamaRobot.modules.sql.global_bans_sql as gban_sql
