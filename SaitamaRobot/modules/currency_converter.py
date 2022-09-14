@@ -1,3 +1,5 @@
+# Credit : Madara-Uchih4
+
 import requests
 from SaitamaRobot import CASH_API_KEY, dispatcher
 from telegram import Update, ParseMode
