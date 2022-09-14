@@ -1,3 +1,5 @@
+# Credit : Madara-Uchih4
+
 import html
 from SaitamaRobot.modules.disable import DisableAbleCommandHandler
 from SaitamaRobot import dispatcher, DRAGONS
