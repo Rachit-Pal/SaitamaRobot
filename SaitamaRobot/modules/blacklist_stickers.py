@@ -1,3 +1,5 @@
+# Credit : Madara-Uchih4
+
 import html
 from typing import Optional
 
