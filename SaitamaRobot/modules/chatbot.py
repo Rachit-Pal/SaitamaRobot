@@ -1,6 +1,7 @@
+# Credit : Madara-Uchih4
+
 import html
 
-# AI module using Intellivoid's Coffeehouse API by @TheRealPhoenix
 from time import sleep, time
 
 import SaitamaRobot.modules.sql.chatbot_sql as sql
