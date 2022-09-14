@@ -1,4 +1,5 @@
-# Module to blacklist users and prevent them from using commands by @TheRealPhoenix
+# Credit : Madara-Uchih4
+
 import html
 import SaitamaRobot.modules.sql.blacklistusers_sql as sql
 from SaitamaRobot import (
