@@ -1,3 +1,5 @@
+# Credit : Madara-Uchih4
+
 import re
 import random
 from html import escape
