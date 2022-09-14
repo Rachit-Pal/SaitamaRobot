@@ -1,3 +1,5 @@
+# Credit : Madara-Uchih4
+
 import random, html
 
 from SaitamaRobot import dispatcher
