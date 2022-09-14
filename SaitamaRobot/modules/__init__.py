@@ -1,3 +1,5 @@
+# Credit : Madara-Uchih4
+
 from SaitamaRobot import LOAD, LOGGER, NO_LOAD
 
 
