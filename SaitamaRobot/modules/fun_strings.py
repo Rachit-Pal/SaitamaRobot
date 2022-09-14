@@ -1,3 +1,5 @@
+# Credit : Madara-Uchih4
+
 RUN_STRINGS = (
     "Now you see me, now you don't." "ε=ε=ε=ε=┌(;￣▽￣)┘",
     "Get back here!",
