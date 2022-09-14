@@ -1,3 +1,5 @@
+# Credit : Madara-Uchih4
+
 import json, time, os
 from io import BytesIO
 
